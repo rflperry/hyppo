@@ -5,6 +5,7 @@ from .hotelling import Hotelling
 from .ksamp import KSample
 from .manova import MANOVA
 from .mmd import MMD
+from .kcd import KCD
 
 __all__ = [s for s in dir()]  # add imported tests to __all__
 
